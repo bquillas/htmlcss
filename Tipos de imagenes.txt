@@ -1,0 +1,39 @@
+Lossy vs Lossless
+Con perdida | Sin perdida
+
+Depende del formato
+
+
+** Lossless **
+Sin perdida de calidad
+Son Pesadas
+- GIF
+- PNG 8 : Uso de colores 256, transparente
+- PNG 24 : Más de 256 colores
+- SVG - Vector : ligero, logotipos
+
+
+** Lossy **
+Con perdida de calidad
+- JPG/JPEG : para fotgrafia y numero ilimitado de colores
+- 
+
+
+https://www.freepik.es/
+https://www.flaticon.com/
+
+
+TAMAÑO PROMEDIO DE UNA IMAGEN
+*****************************
+Tamaño máximo recomendado para una imágen:
+Entre 100 - 70 kb
+70kb
+.
+Herramientas para optimizar imágenes:
+
+Tiny PNG: Comprime el tamaño de una imagen, para hacerla más ligera.
+    https://tinypng.com/
+Verefix: Elimina los metadatos de una imagen, para reducir su tamaño.
+    verexif.com
+
+

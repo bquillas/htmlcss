@@ -1,0 +1,95 @@
+PERFILES DE UN WEB DEVELOPER
+
+
+FRONT-END (CLIENTE)
+===================
+Estandares:
+HTML CSS JS
+
+Frameworks de CSS:
+- Bootstrap
+
+Frameworks y librerias de JS
+-Angular
+
+Preprocesadores de CSS
+-Less
+-Styluss
+-Sass
+
+Compilador / Empaquetador de JS
+- Babel
+- Webpack
+------------------------------------------------------------------------------------------
+EXTRA:
+Además de los estándares, frameworks, preprocesadores y librerías que maneja un Frontend Developer, me gustaría compartir estas herramientas que nos permiten un mejor desarrollo.
+Herramientas
+    Mediaqueri: Algunas ideas sobre como deberíamos implementar el diseño responsive en nuestro sitio.
+        https://mediaqueri.es/
+    Coolors: Paletas de colores.
+        https://coolors.co/palettes/trending
+    Unsplash: Imagenes gratis (Da los créditos a los fotógrafos 😉).
+        https://unsplash.com/
+    FontPair: Ver cuales fuentes puedes combinar. Y obviamente Google Fonts para obtener esas fuentes.
+        https://fontpair.co/
+    Icons8: Iconos, vectores, música y algunos recursos más…
+        https://icons8.com/
+Documentaciones
+    CSS
+        https://cssreference.io/
+    HTML
+        https://htmlreference.io/
+    Browserdiet: Optimizar sitios web (Perder peso en la web 😛). Recuerda que Platzi tiene también un curso de Web Performance
+        https://browserdiet.com/es/
+        https://platzi.com/clases/web-performance/
+
+    WCAG: Guía para mejorar la accesibilidad de nuestro sitio. Recuerda que Platzi tiene el curso de accesibilidad web.
+        http://www.sidar.org/traducciones/wcag20/es/
+        https://platzi.com/clases/accesibilidad-web/
+Practica jugando
+    Grid Layout: https://cssgridgarden.com/#es
+    Flexbox: https://flexboxfroggy.com/#es
+------------------------------------------------------------------------------------------
+
+
+BACKEND (SERVIDOR)
+==================
+
+Lenguajes de programación
+- Node
+- Python
+- Php
+- Rubi
+- Java
+- ...
+
+Frameworks:
+- Django : Python
+- Laravel : Php
+- Rails : Rubi
+- Express : JS Node
+- Spring : Java
+
+Infraestructura (Deploy): Perfil : DevOps
+- Google Cloud
+- Digital Ocean
+- AWS
+- Heroku
+
+Bases de Datos:
+- mongoDB
+- MySQL
+- PostgreSQL
+
+
+
+FULL STACK (Fusión F&B)
+=======================
+Entiende bien como funciona un producto web de principio a fin.
+
+
+
+
+
+
+

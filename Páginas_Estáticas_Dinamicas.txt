@@ -1,0 +1,17 @@
+Paginas Estáticas vs. Dinámicas
+
+
+Paginas Estáticas
+=================
+Tienen informacion para consumir, pero no cambia (Blogs, landing pages)
+
+
+Paginas Dinámicas
+=================
+Web Apps
+informacion cambiante (Twitter)
+Usuarios
+
+
+
+

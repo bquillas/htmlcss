@@ -1,0 +1,22 @@
+Hypertext Markup Languaje
+
+Anatomía de una Página Web
+
+ -------------------------------------------------
+|   --------           HEADER                     |
+|  |  LOGO  |   ----------------------------------|
+|   --------   |            NAVIGATION            |
+|-------------------------------------------------|
+|                        |                        |
+|    MAIN CONTENT        |        SIDEBAR         |                   
+|                        |                        |
+|                        |                        |
+|                        |                        |
+|                        |                        |
+|-------------------------------------------------|                                                 
+|                     FOOTER                      |
+ -------------------------------------------------
+
+Etiquetas HTML
+
+https://i.emezeta.com/weblog/html5-cheatsheet/html5-cheatsheet-2019.pdf
