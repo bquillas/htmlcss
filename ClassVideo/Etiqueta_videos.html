@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>videos</title>
+</head>
+<body>
+    <main>
+        <!-- FORMA 1 -->
+        <section class="video">
+            <video src=".mivideo.mp4#t=10,60" controls preload="auto"></video> 
+            <!-- #t=10,60 "para controlar el tiempo" -->
+        </section>
+
+        <!-- FORMA 2: para que reconosca diferentes formatos o tipo -->
+        <section class="video">
+            <video controls preload="auto">
+                <source src="./mivideo.mp4#t=10,60" type="">
+                <source src="./mivideo.m4v#t=10,60" type="">
+            </video> 
+        </section>
+    </main>
+</body>
+</html>

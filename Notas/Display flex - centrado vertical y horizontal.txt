@@ -1,0 +1,42 @@
+Centrado horizontal --> : 
+{
+display: flex;
+justify-content: center;
+}
+
+============================================
+Centrado vertical:
+{
+display: flex;
+align-items: center;
+}
+===========================================
+
+Si tengo un elemento con display flex y flex-direction column ¿Con qué propiedad 
+centro su contenido verticalmente?
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+=============================================
+Si tengo un elemento con display flex ¿Con qué propiedad centro su contenido horizontalmente?
+
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+=============================================
+Si tengo un elemento con display flex y flex-direction column ¿Con qué propiedad
+ centro su contenido horizontalmente?
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
