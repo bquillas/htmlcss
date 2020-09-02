@@ -1,0 +1,15 @@
+p{
+    color: #0000ff;
+    font-size: 30px;
+}
+
+/* class */
+
+.parrafo{
+    text-decoration: underline;
+}
+
+#texto{
+    color: #00ff00;
+    text-transform: uppercase;
+}
