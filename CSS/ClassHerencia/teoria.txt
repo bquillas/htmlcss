@@ -1,0 +1,19 @@
+¿Cómo se controla el orden al declarar CSS?
+1. Importancia
+    Hoja de estilos de agente de usuario (Estilos de navegador)
+    Declaraciones normales en hojas de estilo de autor (Nuestro.css)
+    Al utilizar !important
+
+2. Especificidad
+    SELECTORES      ESPECIFICIDAD
+    !important      1,0,0,0,0
+    Inline styles   0,1,0,0,0
+    #id             0,0,1,0,0
+    .class          0,0,0,1,0
+    tag             0,0,0,0,1
+
+3. Orden en las fuentes
+    En tus estilos, las declaraciones al final del 
+    documento anularan a las que sucedan antes en caso de conflicto.
+    De arriba hacia abajo (cascada)
+
