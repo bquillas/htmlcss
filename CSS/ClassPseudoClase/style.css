@@ -1,0 +1,50 @@
+/* 
+BEM (Para nombrar clases en css) 
+
+*/
+
+.main-nav{
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0;
+    background-color: #13a4a4;
+}
+
+.main-nav__item{
+    display: inline-block;
+}
+
+.main-nav__item a{
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+
+}
+
+/*
+Pseudo classes
+:class
+Define el estilo de un estado especial de un elemento
+*/
+
+/* efecto cunado pasas el mouse */
+.main-nav__item a:hover{
+    color: blue;
+}
+
+/* cambiar al hacer click */
+.main-nav__item a:active{
+    color: red;
+}
+
+/*
+Pseudo element
+::element
+Define el estilo de una parte especifica de un elemento 
+*/
+
+/* agregar contenido despues de */
+.main-nav__item a::after{
+    content: " | "
+}
