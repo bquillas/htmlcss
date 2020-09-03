@@ -1,0 +1,23 @@
+Los combinadores
+
+Nos permiten combinar multiples selectores y crear una mayor especificidad.
+
+Hermano adyacente o cercano (Adjacent sibling)
+div + p {
+    ...
+}
+
+Hermano general (~ → Alt + 126)
+div ~ p{
+    ...
+}
+
+Hijo
+div > p{
+    ...
+}
+
+Descendiente
+div p {
+    ...
+}

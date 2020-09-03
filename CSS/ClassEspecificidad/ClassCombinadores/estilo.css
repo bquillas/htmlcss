@@ -1,0 +1,52 @@
+/* abjacent-sibling */
+
+.abjacent-sibling{
+    border: 1px solid red;;
+}
+/* Aplicale el color rojo a todas las etiquetas parrafo que esten cerca
+ a la etiqueta h2 (Solo a la siguiente etiqueta <h2> <p>) */
+.abjacent-sibling h2 + p {
+    color: red;
+    /* Se pondra en color rojo la <p> */
+}
+
+/* ================================================================= */
+/* general-sibling */
+
+.general-sibling{
+    border: 1px solid blue;;
+}
+
+/* Aplicale el color azul a todas las etiquetas parrafo que esten en la misma identacion que
+la etiqueta h2 */
+/* ~ → Alt+126 */
+.general-sibling h2 ~ p{
+    color: blue;
+}
+
+/* ================================================================= */
+/* child */
+
+.child{
+    border: 1px solid green;;
+}
+
+/* El padre div de una etiqueta p, etiqueta p hija directa de div: 
+Aplicale el color verde */
+/* ~ → Alt+126 */
+.child div > p{
+    color: green;
+}
+
+/* ================================================================= */
+/* decendiente */
+
+.decendiente{
+    border: 1px solid purple;;
+}
+
+/* Toda las etiquetas p que se encuentran dentro de la etiqueta div: aplicale el color purple */
+/* ~ → Alt+126 */
+.decendiente div p{
+    color: purple;
+}
