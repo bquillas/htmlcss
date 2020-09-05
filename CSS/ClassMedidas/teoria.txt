@@ -1,0 +1,34 @@
+MEDIDAS
+-------------------------------------
+ABSOLUTAS & RELATIVAS
+px          %
+-           em
+-           rem(root em)
+-           max-width / max-height
+-           min-width / min-height
+-           vw(viewport width)
+-           vh(viewport height)
+-------------------------------------
+
+ABSOLUTAS
+Los pixeles,tamaño de fuente, del width, el hight.
+No cambian
+
+RELATIVAS
+30% de un dispositivo celular es diferente a la de una pc.
+Si cambian
+
+Por defecto HTML posee 16px
+===========================================
+RELATIVAS (em)
+Toma el tamaño de la fuente del padre directo.
+Si el padre tiene 20px → 1em = 20px.
+
+RELATIVAS(rem(root em))
+Solo toma las medidas de la raiz (html)
+1rem = 10px
+
+RELATIVAS (max-width height / min-width height)
+Se puede dar un tamaño min y max
+
+
