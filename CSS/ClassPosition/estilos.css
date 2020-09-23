@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* ------------------------------------------- */
+
+.parent{
+    border: 2px black dotted;
+    display: inline-block;
+}
+
+.box{
+    display: inline-block;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+#two{
+    background-color: green;
+}
+
+/* ejemplo */
+section{
+    width: 600px;
+    margin: 0 auto;
+
+}
+
+figure{
+    background-color: slateblue;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h2{
+    background-color: seagreen;
+    text-align: center;
+    padding: 1.3rem;
+    width: 50%;
+    border-radius: 4px;
+    top:1.5rem;
+    position: relative;
+    margin: 0 auto;
+}
+
+p{
+    background-color: skyblue;
+    text-align: center;
+    padding: 1.2rem;
+    border-radius: 4px;
+    margin: 0 auto;
+    top: 1.5rem;
+    position: relative;
+    width: 90%;
+}
+
