@@ -1,0 +1,59 @@
+body{
+    margin: 0 auto;
+}
+
+header{
+    background-color:gray;
+}
+
+.logo, .nav{
+    display: inline-block;
+}
+
+nav{
+    list-style: none;
+    right: 0;
+}
+
+nav li{
+    display: inline-block;
+    color: white;
+    padding-left: 20px;
+}
+
+aside{
+    background-color:palevioletred;
+    padding: 20px;
+}
+
+aside div{
+    background-color:green;
+    margin: 2px;
+    width:150px;
+    height: 150px;
+}
+
+aside, article{
+    display: inline-block;
+}
+
+article{
+    background-color:rgba(84, 87, 86, 0.315);
+    position: absolute;
+    height: 650px;
+}
+
+footer{
+    background-color:yellow;
+    text-align: center;
+
+}
+.rrss li{
+    list-style: none;
+    display: inline-block;
+}
+
+.foot,.rrss{
+    display: inline-block;
+}
+

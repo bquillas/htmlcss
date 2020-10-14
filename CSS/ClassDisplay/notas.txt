@@ -1,0 +1,9 @@
+Display:
+
+Block.- Ocupa todo el ancho de la pantalla766, es decir la siguiente etiqueta estara en la siguiente linea. Se le puede agregar padding y margin en los cuatro lados.
+
+Inline.- Solo ocupa el espacio asignado, las siguientes etiquetas se pondran en la misma linea. No se le puede asignar padding ni margin hacia arriba y abajo.
+
+Inline-block.- Es una fusion de las dos anteriores.
+
+
